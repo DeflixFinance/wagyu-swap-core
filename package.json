@@ -9,11 +9,7 @@
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org"
-  },
-  "files": [
-    "contracts",
-    "build"
-  ],
+  },  
   "engines": {
     "node": ">=10"
   },
